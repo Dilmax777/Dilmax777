@@ -1,0 +1,320 @@
+#EXTM3U
+#EXTINF:-1,Интер
+http://192.168.1.128:6878/ace/getstream?id=19b1e3f9edff5718ee02f0cbd908276b551e9599&.mp4
+#EXTINF:-1,СТБ
+http://192.168.1.128:6878/ace/getstream?id=0d44f8dc1f9d9be406300ff76d5342e88ab48634&.mp4
+#EXTINF:-1,1+1
+http://192.168.1.128:6878/ace/getstream?id=afeeb4c9336716ed180d0056e71bef27284c0116&.mp4
+#EXTINF:-1,ICTV
+http://192.168.1.128:6878/ace/getstream?id=05910f24745224f5a0c26683a902c3963a38f297&.mp4
+#EXTINF:-1,Украина
+http://163.172.179.78:8081/tv/ukraina/chunks.m3u8
+#EXTINF:-1,Новый канал
+http://192.168.1.128:6878/ace/getstream?id=1bd022580e52575e288030c9c56afd18b7ab31a1&.mp4
+#EXTINF:-1,112 Украина HD
+http://192.168.1.128:6878/ace/getstream?id=c67efc7aaf96f2ce4865b01ce2cd61a8225685fa&.mp4
+#EXTINF:-1,News One
+http://51.15.76.235:8081/tv/newsone/chunks.m3u8?nimblesessionid=4485118&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDIwIDExOjA4OjE4IEFNJmhhc2hfdmFsdWU9aFZFR3VoSU9IV2xLRWNYMTB1MnNaQT09JnZhbGlkbWludXRlcz03MjA=
+#EXTINF:-1,Новороссия ТВ
+http://dprtv.phoenix-dnr.ru/novorossia-tv
+#EXTINF:-1,Первый Республиканский
+http://dprtv.phoenix-dnr.ru/first-republic-tv
+#EXTINF:-1,Оплот ТВ HD
+http://dprtv.phoenix-dnr.ru/oplot-tv
+#EXTINF:-1,Оплот ТВ 2
+http://192.168.1.128:6878/ace/getstream?id=d76f747910e1e1ce86c80213f02171b8e965f62f&.mp4
+#EXTINF:-1,Юнион
+http://dprtv.phoenix-dnr.ru/union
+#EXTINF:-1,24 Украина
+http://192.168.1.128:6878/ace/getstream?id=9bcbf658da5bfeaf63ad60c451896a43e6fb4f12&.mp4
+#EXTINF:-1,5 Канал Украина
+http://api.tv.ipnet.ua/api/v1/manifest/2118742539.m3u8?codec=mpeg4
+#EXTINF:-1,Перший HD
+http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8?codec=mpeg4
+#EXTINF:-1,Эспресо ТВ HD
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8?codec=mpeg4
+#EXTINF:-1,Правда Тут Киев
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1,Прямий HD
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1,100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1,ua Донбасс
+http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8?codec=mpeg4
+#EXTINF:-1,К 1
+http://192.168.1.128:6878/ace/getstream?id=8eed69f779e2c26076749b2c02aa9598ed2adcf4&.mp4
+#EXTINF:-1,Супер HD
+http://192.168.1.128:6878/ace/getstream?id=b6835b698a5d8beff8343d2985fa8901adae669d&.mp4
+#EXTINF:-1,СТС
+http://192.168.1.128:6878/ace/getstream?id=e2fe666bbec21148dc37c34985cbf81837c1f93e&.mp4
+#EXTINF:-1,СТС HD
+http://192.168.1.128:6878/ace/getstream?id=476350c0b0264e11d924b524c5741075aa53e747&.mp4
+#EXTINF:-1,СТС Love
+http://192.168.1.128:6878/ace/getstream?id=38e076293a21e7f43904ab85e5dc3509783af111&.mp4
+#EXTINF:-1,ТНТ HD
+http://192.168.1.128:6878/ace/getstream?id=9477d75fd3fe2be6df2ba3fcb4f98009339da3d6&.mp4
+#EXTINF:-1,Пятница HD
+http://192.168.1.128:6878/ace/getstream?id=427196ffb53ff26fe34189a2517ebda76bdb90e2&.mp4
+#EXTINF:-1,Че
+http://192.168.1.128:6878/ace/getstream?id=e17d178435a9dbe1636910bf71da391ce712a979&.mp4
+#EXTINF:-1,Ю
+http://192.168.1.128:6878/ace/getstream?id=05319408fe815362c6a60aae8a5aed2312512a8e&.mp4
+#EXTINF:-1,365 дней ТВ
+http://192.168.1.128:6878/ace/getstream?id=84f8cdc56625e9ea5ac73bc1a89df72872cf21a4&.mp4
+#EXTINF:-1,5 канал (Россия)
+http://192.168.1.128:6878/ace/getstream?id=1ce26ecb6dcca16fc3756aa4add89ff1dfd5fe08&.mp4
+#EXTINF:-1,RTVi
+http://192.168.1.128:6878/ace/getstream?id=748c5b155ec28aeefc0491998544615e15a4bede&.mp4
+#EXTINF:-1,Домашний
+http://192.168.1.128:6878/ace/getstream?id=b717267a2f1e407848534f39ae7d187669e3e748&.mp4
+#EXTINF:-1,Звезда
+http://192.168.1.128:6878/ace/getstream?id=58af396101a2c9848267cacb05f37221f33584ee&.mp4
+#EXTINF:-1,ТВ 3 HD
+http://192.168.1.128:6878/ace/getstream?id=427b19bba66ac6c742fda6b668d6b8955c69b9a8&.mp4
+#EXTINF:-1,Мир Премиум HD
+http://192.168.1.128:6878/ace/getstream?id=7e9558cfc3a9bf095ee8a2c25d6f097440ef9859&.mp4
+#EXTINF:-1,НТВ HD
+http://192.168.1.128:6878/ace/getstream?id=879b42e44f9fa7a868758bded64eacdcc7bf11a0&.mp4
+#EXTINF:-1,НТВ Хит
+http://51.15.71.196:8081/tv/ntv-hit/chunks.m3u8?nimblesessionid=7567188&wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjAgMTA6MTY6NTAgUE0maGFzaF92YWx1ZT1BcVFxYzZJQkhuenJmN3pCWWRrL1BRPT0mdmFsaWRtaW51dGVzPTcyMA==
+#EXTINF:-1,НТВ Сериал
+http://51.15.113.115:8081/tv/ntv-serial/chunks.m3u8?nimblesessionid=3720688&wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjAgMTA6MTk6MjAgUE0maGFzaF92YWx1ZT02WElHUGh5Y3hKQUJ0WFBuZzdBL3VBPT0mdmFsaWRtaW51dGVzPTcyMA==
+#EXTINF:-1,НТВ Мир
+http://192.168.1.128:6878/ace/getstream?id=c1bed36330081a131ae0c38482bdbb106f5e29f5&.mp4
+#EXTINF:-1,Первый канал HD
+http://192.168.1.128:6878/ace/getstream?id=ee3ce944fa3a5f49428240d363ffc368454c6b72&.mp4
+#EXTINF:-1,Россия 1 HD
+http://192.168.1.128:6878/ace/getstream?id=3f2d29b82d9216cf3ae86c7826e3197ad699af62&.mp4
+#EXTINF:-1,ТВЦ
+http://192.168.1.128:6878/ace/getstream?id=2a4c59ca88301f8018f411ab456bd11cda6786dc&.mp4
+#EXTINF:-1,Amedia Premium HD
+http://192.168.1.128:6878/ace/getstream?id=c7c84ff9dd4a689255b15d79c61a3271e431a16b&.mp4
+#EXTINF:-1,Amedia Hit HD
+http://192.168.1.128:6878/ace/getstream?id=0bfc429fafe7563f70ec4e1b69541de0aa738e1e&.mp4
+#EXTINF:-1,Amedia 1
+http://192.168.1.128:6878/ace/getstream?id=32806720cc363a53ac0ae2791a005a02cd252ee8&.mp4
+#EXTINF:-1,Fox Life
+http://192.168.1.128:6878/ace/getstream?id=e1b682595ae741b97327f2319742c0c29db711b2&.mp4
+#EXTINF:-1,Fox
+http://192.168.1.128:6878/ace/getstream?id=d19479886c008e532ce21d31680cc5f76ba554c8&.mp4
+#EXTINF:-1,Paramount Comedy
+http://192.168.1.128:6878/ace/getstream?id=1b4696e85c29c86ecaf1abbcf423c136039bf6ee&.mp4
+#EXTINF:-1,Paramount Сhannel HD
+http://192.168.1.128:6878/ace/getstream?id=4c1abbb5396ff7373ba49b5280cd70db50c39147&.mp4
+#EXTINF:-1,Sony Channel
+http://192.168.1.128:6878/ace/getstream?id=8789f606f62a64354d6612dabeef0863d3e2bda5&.mp4
+#EXTINF:-1,Sony Turbo
+http://192.168.1.128:6878/ace/getstream?id=c274cf58f542052b1b190a1e123e91f53767de3f&.mp4
+#EXTINF:-1,TV 1000 Action East
+http://192.168.1.128:6878/ace/getstream?id=bdcd46d5b6b08a85fbcb0146a707f339a897085c&.mp4
+#EXTINF:-1,TV 1000 HD
+http://192.168.1.128:6878/ace/getstream?id=9a37c5baada29fc5c09a2042e656113f403d5540&.mp4
+#EXTINF:-1,TV 1000 Русское Кино HD
+http://192.168.1.128:6878/ace/getstream?id=facd0552b3854156d4e3562a61af247ffff87e10&.mp4
+#EXTINF:-1,Vip Comedy HD
+http://192.168.1.128:6878/ace/getstream?id=3e9dfa075eaac432d7fd95ea21aa05db4c559a65&.mp4
+#EXTINF:-1,Vip Megahit HD
+http://192.168.1.128:6878/ace/getstream?id=92bf5026ac54a4616ae1b59fe204d638e3e2aa4e&.mp4
+#EXTINF:-1,Vip Premiere HD
+http://192.168.1.128:6878/ace/getstream?id=844466e115fe5dc0a9dfe5abc59ab14ccf1dd547&.mp4
+#EXTINF:-1,Дом кино
+http://192.168.1.128:6878/ace/getstream?id=76dba6f9ac67300ef94b693af84f193a5e39aa29&.mp4
+#EXTINF:-1,Дом кино премиум HD
+http://192.168.1.128:6878/ace/getstream?id=863878744814575d1686df2d2a6250d5eda64a22&.mp4
+#EXTINF:-1,Кинопремиум HD
+http://192.168.1.128:6878/ace/getstream?id=6a45f49f6cb3f271cf28d94bd0a6c61897134c61&.mp4
+#EXTINF:-1,Кино ТВ HD
+http://192.168.1.128:6878/ace/getstream?id=69cae515f1b88f3695e09a55988295b2fe9b9e61&.mp4
+#EXTINF:-1,Киномикс
+http://192.168.1.128:6878/ace/getstream?id=bfa49750d8153978629b6dcffcd13d0a59cb35a0&.mp4
+#EXTINF:-1,Кинопоказ
+http://192.168.1.128:6878/ace/getstream?id=5fa0a903f6d4e10adf1603a050e1f77eb3a2ad09&.mp4
+#EXTINF:-1,Кинопоказ HD 1
+http://192.168.1.128:6878/ace/getstream?id=6b2c7666f66555204c33ce5e523b8e56fe00d743&.mp4
+#EXTINF:-1,Кинопоказ HD 2
+http://192.168.1.128:6878/ace/getstream?id=da116afe3adb4831f53e87d118b1f8c650b719d8&.mp4
+#EXTINF:-1,Кинопремьера
+http://192.168.1.128:6878/ace/getstream?id=e547ae5f08b8202f3f11e0aa224eb09741db6485&.mp4
+#EXTINF:-1,Кинопремьера HD
+http://192.168.1.128:6878/ace/getstream?id=6b41e2ab4ee9953f5cca531485aa01a2bfa97098&.mp4
+#EXTINF:-1,Киносвидание HD
+http://192.168.1.128:6878/ace/getstream?id=e2e5a2dcca5a9d8e8e485ab72edd6b0e9e71952b&.mp4
+#EXTINF:-1,Киносемья
+http://192.168.1.128:6878/ace/getstream?id=8e41521482e2daf70b032dea8348abc06f58192a&.mp4
+#EXTINF:-1,Кинохит
+http://192.168.1.128:6878/ace/getstream?id=17a7bdf381d98ea110654d230a22b08136cc6d7b&.mp4
+#EXTINF:-1,Мужское кино
+http://192.168.1.128:6878/ace/getstream?id=6976c8024012ae13de8cd5003d463983f398a9df&.mp4
+#EXTINF:-1,НСТ
+http://192.168.1.128:6878/ace/getstream?id=3bb375057c45b97e7f5eff59e547fcc3d01f5fe1&.mp4
+#EXTINF:-1,Наш Детектив HD
+http://192.168.1.128:6878/ace/getstream?id=e106287c1fffac59668f0193e1cdb0e0d86037f7&.mp4
+#EXTINF:-1,Наш Кинороман HD
+http://51.15.194.248:8081/tv/nash-kinoroman/chunks.m3u8?nimblesessionid=2259805&wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjAgMTA6MDM6MzQgUE0maGFzaF92YWx1ZT0wRVRqZWNxVURsNUVZOXFtb1FXdGJBPT0mdmFsaWRtaW51dGVzPTcyMA==
+#EXTINF:-1,Наше новое кино
+http://192.168.1.128:6878/ace/getstream?id=b02585279dc4d5b48de356941874a69aa570251a&.mp4
+#EXTINF:-1,Остросюжетное HD
+http://192.168.1.128:6878/ace/getstream?id=84b27b33a6e7b057904e667684136bc108371f6c&.mp4
+#EXTINF:-1,Романтичное HD
+http://192.168.1.128:6878/ace/getstream?id=5d8064cb559a016502a78f8ab3f3589b1680912b&.mp4
+#EXTINF:-1,Русский роман HD
+http://192.168.1.128:6878/ace/getstream?id=a817617cb02bec63b86f503b278548869d6101c4&.mp4
+#EXTINF:-1,Открытый HD
+http://192.168.1.128:6878/ace/getstream?id=1d18d9a9c0ff447571182aa6e8e4a98ff430c4cc&.mp4
+#EXTINF:-1,Русская комедия
+http://192.168.1.128:6878/ace/getstream?id=ac3c74ae7da904c1a5c6247f334f0dfbd089fcd0&.mp4
+#EXTINF:-1,Русский иллюзион
+http://192.168.1.128:6878/ace/getstream?id=f4ecf0af2c5f6e72024de7d7703a919c9ac7af87&.mp4
+#EXTINF:-1,Иллюзион
+http://192.168.1.128:6878/ace/getstream?id=20898213b5bba7aa1c53e539de64f51cc2d19c42&.mp4
+#EXTINF:-1,Страшное HD
+http://192.168.1.128:6878/ace/getstream?id=3c8a808c59a87fb1dc9df117df469713599877d3&.mp4
+#EXTINF:-1,Премиальное HD
+http://192.168.1.128:6878/ace/getstream?id=6cb012ac251c47674dcbf67aa5abfb0c484cdae9&.mp4
+#EXTINF:-1,Sony SET HD
+http://192.168.1.128:6878/ace/getstream?id=cf85f9723319563acdbb2d3ae588856cf6187e66&.mp4
+#EXTINF:-1,ТВ XXI
+http://192.168.1.128:6878/ace/getstream?id=191e2dd8e5017cd78c29bb605603a92c14c20588&.mp4
+#EXTINF:-1,RTG
+http://192.168.1.128:6878/ace/getstream?id=7bd733794b2165c1f96bfe25ff54c9f6c1e9ee6d&.mp4
+#EXTINF:-1,Bridge HD
+http://192.168.1.128:6878/ace/getstream?id=88e92f885eb068d713d3632acdfdd4ed1e797ba0&.mp4
+#EXTINF:-1,Europa Plus TV
+http://192.168.1.128:6878/ace/getstream?id=54254783e6f89ebd73bd824fc40118f6f2f016f1&.mp4
+#EXTINF:-1,M 1
+http://192.168.1.128:6878/ace/getstream?id=edd47754fbf4abf1b8b6afd22d37b37239404a7d&.mp4
+#EXTINF:-1,M 1 HITS 
+http://192.168.1.128:6878/ace/getstream?id=4e282d9f60152a90558741b4b7c9e7730d78e0eb&.mp4
+#EXTINF:-1,MTV Dance
+http://192.168.1.128:6878/ace/getstream?id=4e60d6dd3d902a875d5170d2fc11deda289d018c&.mp4
+#EXTINF:-1,MTV Rocks
+http://192.168.1.128:6878/ace/getstream?id=64552581e436b397d9d479c4caac362339fef698&.mp4
+#EXTINF:-1,MTV Россия
+http://192.168.1.128:6878/ace/getstream?id=ba2c35201515d08c986fcf7b0c839e44247ccb36&.mp4
+#EXTINF:-1,RU.TV
+http://192.168.1.128:6878/ace/getstream?id=0f18b8d8bebfca48009c498c5aa851e0832e85d2&.mp4
+#EXTINF:-1,VH1 Classic
+http://192.168.1.128:6878/ace/getstream?id=185ee5f2e98278437e946fc09e26ecee75b446fd&.mp4
+#EXTINF:-1,VH1 Europe
+http://192.168.1.128:6878/ace/getstream?id=8cb69525386533f81c042f9e02d254f01b71d00c&.mp4
+#EXTINF:-1,Радио Люкс FM UA
+http://192.168.1.128:6878/ace/getstream?id=44b405eddcc94e1a7c58b6f1a56e3aec560a7984&.mp4
+#EXTINF:-1,Муз-ТВ
+http://192.168.1.128:6878/ace/getstream?id=a8f79b03a063b021c645821488300a5367585d74&.mp4
+#EXTINF:-1,Музыка Первого
+http://192.168.1.128:6878/ace/getstream?id=d462e00b50332f176f2f19b8f21ae83bda67922f&.mp4
+#EXTINF:-1,ТНТ MUSIC
+http://192.168.1.128:6878/ace/getstream?id=29394427a196c1e71549f54da14a7fc9483e02ca&.mp4
+#EXTINF:-1,1HD Music
+http://192.168.1.128:6878/ace/getstream?id=d2f09c16f541db80f7b85cea33ed0e11231e5118&.mp4
+#EXTINF:-1,Шансон ТВ
+http://192.168.1.128:6878/ace/getstream?id=b05ee2042635120bc0ad98f2e43cf6987be33e58&.mp4
+#EXTINF:-1,Радио Шансон ТВ HD
+http://192.168.1.128:6878/ace/getstream?id=7bcde9fcc04ff989b06148f4e78a03e96f8caa8a&.mp4
+#EXTINF:-1,MTV HD
+http://192.168.1.128:6878/ace/getstream?id=1820772ad70a3f4ead6adf5dff84e754d8da7907&.mp4
+#EXTINF:-1,Матч! Боец
+http://192.168.1.128:6878/ace/getstream?id=e0b837bec8581ef40011401fec2c2c7717c7fba5&.mp4
+#EXTINF:-1,Бокс ТВ
+http://192.168.1.128:6878/ace/getstream?id=2ee8cc6d23f5ea4013385343e42d037233e7ad6d&.mp4
+#EXTINF:-1,Телепутешествия HD
+http://192.168.1.128:6878/ace/getstream?id=9ef190f19a4d6599ae91719be2dfadc53a6eef59&.mp4
+#EXTINF:-1,Охота и рыбалка
+http://192.168.1.128:6878/ace/getstream?id=e10d90875c6a8f97e9d2477520dfc0f18f777c80&.mp4
+#EXTINF:-1,Охотник и рыболов HD
+http://192.168.1.128:6878/ace/getstream?id=95d537b8495956e6a7a7cd9a0211bcb0bc1b3066&.mp4
+#EXTINF:-1,Animal Family HD
+http://192.168.1.128:6878/ace/getstream?id=9f0801c4c1ca4f41aaef98a30a1ea492966fc424&.mp4
+#EXTINF:-1,Animal Planet HD
+http://192.168.1.128:6878/ace/getstream?id=815daf9ba05ea77cf0fc67771359548eb08a41cd&.mp4
+#EXTINF:-1,Discovery Россия HD
+http://192.168.1.128:6878/ace/getstream?id=f9d10e6fa938417babd0311b5558762c5427cd24&.mp4
+#EXTINF:-1,History Россия HD
+http://192.168.1.128:6878/ace/getstream?id=14283a2a7c935c6b7505c073476ee2591277c9a1&.mp4
+#EXTINF:-1,Nat Geo Wild HD
+http://192.168.1.128:6878/ace/getstream?id=06cb0cbbada44d44ab65f113198a760269381e06&.mp4
+#EXTINF:-1,Outdoor channel HD
+http://192.168.1.128:6878/ace/getstream?id=277dc43008da557b2c62e57dd768fd8d91e541b3&.mp4
+#EXTINF:-1,Travel channel HD
+http://192.168.1.128:6878/ace/getstream?id=c5273075b1d933b249f3c028c9a493388ed17386&.mp4
+#EXTINF:-1,Travel+Adventure HD
+http://192.168.1.128:6878/ace/getstream?id=2b9b8f57396ffd86f9d073e485a343f018b38e10&.mp4
+#EXTINF:-1,Живая природа HD
+http://192.168.1.128:6878/ace/getstream?id=316d1b7040316331048af158fccd7ec6fba584cf&.mp4
+#EXTINF:-1,Планета HD
+http://192.168.1.128:6878/ace/getstream?id=5b001a37c76dff958aecc28bc372c28281ecf5fd&.mp4
+#EXTINF:-1,Матч ТВ HD
+http://192.168.1.128:6878/ace/getstream?id=781f1e0f92475b086b3988bf45da9fbf88de3e63&.mp4
+#EXTINF:-1,Матч! Игра HD
+http://192.168.1.128:6878/ace/getstream?id=62ef7e82275b9f50a51b6dd19123e460f68e678a&.mp4
+#EXTINF:-1,Матч! Наш спорт
+http://192.168.1.128:6878/ace/getstream?id=501018635ad5a212639acc8f1857120390b0e699&.mp4
+#EXTINF:-1,Матч! Планета
+http://192.168.1.128:6878/ace/getstream?id=d1850a5053feb60f140244197072b2e95de69683&.mp4
+#EXTINF:-1,Матч! Футбол 1 HD
+http://192.168.1.128:6878/ace/getstream?id=92550ac34357a69bf6c734145fa359197d62fec0&.mp4
+#EXTINF:-1,Матч! Футбол 2 HD
+http://192.168.1.128:6878/ace/getstream?id=153e4a4098ada1e6150a5e62cdd58db806fddada&.mp4
+#EXTINF:-1,Морской
+http://192.168.1.128:6878/ace/getstream?id=9bb9e82adb00d4f39d317cc520a91572ead8a5e5&.mp4
+#EXTINF:-1,НТВ+ Наш футбол HD
+http://192.168.1.128:6878/ace/getstream?id=73d8f7f6bc68b12878d73180fd06f0e3d211acfd&.mp4
+#EXTINF:-1,Сетанта Спорт + HD
+http://192.168.1.128:6878/ace/getstream?id=748e65f5e9652a1c014dca2ad489957e1ba08b3c&.mp4
+#EXTINF:-1,Сетанта Спорт HD
+http://192.168.1.128:6878/ace/getstream?id=b919b8b349c177783f63c4ed0e6ee72848c5bb59&.mp4
+#EXTINF:-1,ФУТБОЛ 1 HD УКРАИНА
+http://192.168.1.128:6878/ace/getstream?id=5df16d161ec57a92ddbc5dfac37a527f0810d330&.mp4
+#EXTINF:-1,Dorcel HD
+http://192.168.1.128:6878/ace/getstream?id=73e808ad4ad370b7b4433440ae4d8cd4176bcc2e&.mp4
+#EXTINF:-1,Hustler HD
+http://192.168.1.128:6878/ace/getstream?id=512d21052629e67dbfc6b71306393a24792ccd80&.mp4
+#EXTINF:-1,Redlight HD
+http://192.168.1.128:6878/ace/getstream?id=879adbc189269d07502688abdfe33283962142ff&.mp4
+#EXTINF:-1,RedTraffic
+http://192.168.1.128:6878/ace/getstream?id=6affd96dca0e4fcc412a05b88db6b923fe7c90d0&.mp4
+#EXTINF:-1,RedTraffic Interracial HD
+http://192.168.1.128:6878/ace/getstream?id=17293f7fc2ccd252ad4835c4351bee6181f82b21&.mp4
+#EXTINF:-1,RedTraffic Big Ass HD
+http://192.168.1.128:6878/ace/getstream?id=91ba5f633b5b7fbf0f75106b5cebdba4c8f6582f&.mp4
+#EXTINF:-1,RedTraffic Cuckold HD
+http://192.168.1.128:6878/ace/getstream?id=c699ceb014ee086f46af224c10a0212203008340&.mp4
+#EXTINF:-1,FAP TV Lesbian
+http://192.168.1.128:6878/ace/getstream?id=01a552e4ee2d4dc73709f40c5ebd7575ebfa7fdd&.mp4
+#EXTINF:-1,AdultIPTV.net Anal
+http://192.168.1.128:6878/ace/getstream?id=7cac3131958133ab8d363ebd3d15265ef46cbba9&.mp4
+#EXTINF:-1,AdultIPTV.net Blonde
+http://192.168.1.128:6878/ace/getstream?id=1f7a920b6691db25b0c0f4bcddaf91e1dcb76664&.mp4
+#EXTINF:-1,AdultIPTV.net Compilation
+http://192.168.1.128:6878/ace/getstream?id=8e5f59d4d27f0b3b63178a5cd14b4a7a8cfb68c9&.mp4
+#EXTINF:-1,AdultIPTV.net Gangbang
+http://192.168.1.128:6878/ace/getstream?id=97410eabe91bb34194e78a117ef0d1ad91d117a5&.mp4
+#EXTINF:-1,AdultIPTV.net Rough
+http://192.168.1.128:6878/ace/getstream?id=99986a18b896d5db6531c6fff3a521ba6a2d17d3&.mp4
+#EXTINF:-1,AdultIPTV.net Russian
+http://192.168.1.128:6878/ace/getstream?id=073226219c55b6a76addbd2e5db452f7e1ba65cd&.mp4
+#EXTINF:-1,AdultIPTV.net Teen
+http://192.168.1.128:6878/ace/getstream?id=9151f86d3e3559eb5f824ceded6c2021bea05eb8&.mp4
+#EXTINF:-1,AdultIPTV.net Threesome
+http://192.168.1.128:6878/ace/getstream?id=34d60c16dff39df28eb373fd44cc62c6aae7faed&.mp4
+#EXTINF:-1,AdultIPTV.net MILF Channe
+http://192.168.1.128:6878/ace/getstream?id=d2cc28e96076a1cc26a4fdc99da6321c8e15dd8b&.mp4
+#EXTINF:-1,PINKo TV 
+http://192.168.1.128:6878/ace/getstream?id=8c9d537ec05f22eaa0020264224f8630c01255eb&.mp4
+#EXTINF:-1,Pentouse Gold HD
+http://192.168.1.128:6878/ace/getstream?id=45f3e67308a1c7b90c252ab76fc1483dc9cacbe5&.mp4
+#EXTINF:-1,Private HD
+http://192.168.1.128:6878/ace/getstream?id=ec9e4916fd44dbbf8d7ee1f867e003c117d4f251&.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
